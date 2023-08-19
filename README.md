@@ -99,7 +99,7 @@ rails server
 ```
 
 ### Frontend repository
-To access the frontend script that utilises this backend script, please refer to the instructions in the README of the frontend repository linked [here](https://github.com/juanmanuelbyc/hello-react-front-end/pull/1)
+To access the frontend script that utilises this backend script, please refer to the instructions in the README of the frontend repository linked [here](https://github.com/juanmanuelbyc/hello-react-front-end/pull/2)
 
 
 ## 👥 Author <a id="authors"></a>
